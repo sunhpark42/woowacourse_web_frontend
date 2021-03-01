@@ -1,10 +1,5 @@
 ## 웹 접근성 / 웹 표준 체크 리스트
 
-<img src="../src/images/lotto_1.gif" width="100%">
-<img src="../src/images/lotto_2.gif" width="100%">
-<img src="../src/images/lotto_3.gif" width="100%">
-<img src="../src/images/lotto_4.gif" width="100%">
-
 ### 웹 접근성
 
 - [x] Focusing
@@ -31,3 +26,9 @@
 - [x] modal의 경우는 role="dialog" aria-modal="true" 속성 부여
 - [x] modal에서 닫기 버튼에 aria-label="닫기" 부여
 - [x] html 기본 속성을 최대한 이용한다. (ex. required)
+
+### 시뮬레이션
+<img src="../src/images/lotto_1.gif" width="40%">
+<img src="../src/images/lotto_2.gif" width="40%">
+<img src="../src/images/lotto_3.gif" width="40%">
+<img src="../src/images/lotto_4.gif" width="40%">
