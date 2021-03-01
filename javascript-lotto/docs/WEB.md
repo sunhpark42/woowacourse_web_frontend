@@ -28,7 +28,5 @@
 - [x] html 기본 속성을 최대한 이용한다. (ex. required)
 
 ### 시뮬레이션
-<img src="../src/images/lotto_1.gif" width="40%">
-<img src="../src/images/lotto_2.gif" width="40%">
-<img src="../src/images/lotto_3.gif" width="40%">
-<img src="../src/images/lotto_4.gif" width="40%">
+<img src="../src/images/lotto_1.gif" width="50%">
+<img src="../src/images/lotto_2.gif" width="50%">
